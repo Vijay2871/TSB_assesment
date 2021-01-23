@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ceb274f0-ff7d-4cf0-ae65-7e651c4e913c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mXu2IUfsJ2avzHgEnKdJoujTBg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/pageObjects" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="managers" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\vijay\ideworkspace\sample\src\test\pageObjects" />
+      <recent name="C:\Users\vijay\ideworkspace\sample\src\test\runners" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\vijay\ideworkspace\sample\src\main\java" />
+      <recent name="C:\Users\vijay\ideworkspace\sample\src" />
+      <recent name="C:\Users\vijay\ideworkspace\sample\src\test\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestRunner">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="cucumber.cts.Main" />
+      <module name="sample" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="runners" />
+      <option name="MAIN_CLASS_NAME" value="runners.TestRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.TestRunner" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestRunner" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ceb274f0-ff7d-4cf0-ae65-7e651c4e913c" name="Default Changelist" comment="" />
+      <created>1609652047242</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609652047242</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="370" y="146" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1609803840118">
+      <screen x="0" y="0" width="1280" height="728" />
+    </state>
+    <state x="370" y="146" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1280.728@0.0.1280.728" timestamp="1609803840118" />
+    <state x="367" y="57" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1609652292561">
+      <screen x="0" y="0" width="1280" height="728" />
+    </state>
+    <state x="367" y="57" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1280.728@0.0.1280.728" timestamp="1609652292561" />
+    <state x="336" y="294" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1609725698889">
+      <screen x="0" y="0" width="1280" height="728" />
+    </state>
+    <state x="336" y="294" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1280.728@0.0.1280.728" timestamp="1609725698889" />
+    <state x="370" y="115" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1609803377901">
+      <screen x="0" y="0" width="1280" height="728" />
+    </state>
+    <state x="370" y="115" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.728@0.0.1280.728" timestamp="1609803377901" />
+    <state width="1281" height="243" key="GridCell.Tab.0.bottom" timestamp="1609826758771">
+      <screen x="0" y="0" width="1280" height="728" />
+    </state>
+    <state width="1281" height="243" key="GridCell.Tab.0.bottom/0.0.1280.728@0.0.1280.728" timestamp="1609826758771" />
+    <state width="1281" height="243" key="GridCell.Tab.0.center" timestamp="1609826758771">
+      <screen x="0" y="0" width="1280" height="728" />
+    </state>
+    <state width="1281" height="243" key="GridCell.Tab.0.center/0.0.1280.728@0.0.1280.728" timestamp="1609826758771" />
+    <state width="1281" height="243" key="GridCell.Tab.0.left" timestamp="1609826758771">
+      <screen x="0" y="0" width="1280" height="728" />
+    </state>
+    <state width="1281" height="243" key="GridCell.Tab.0.left/0.0.1280.728@0.0.1280.728" timestamp="1609826758771" />
+    <state width="1281" height="243" key="GridCell.Tab.0.right" timestamp="1609826758771">
+      <screen x="0" y="0" width="1280" height="728" />
+    </state>
+    <state width="1281" height="243" key="GridCell.Tab.0.right/0.0.1280.728@0.0.1280.728" timestamp="1609826758771" />
+    <state x="170" y="23" key="Maven.ArtifactSearchDialog" timestamp="1609803905034">
+      <screen x="0" y="0" width="1280" height="728" />
+    </state>
+    <state x="170" y="23" key="Maven.ArtifactSearchDialog/0.0.1280.728@0.0.1280.728" timestamp="1609803905034" />
+    <state x="143" y="10" key="SettingsEditor" timestamp="1609722941487">
+      <screen x="0" y="0" width="1280" height="728" />
+    </state>
+    <state x="143" y="10" key="SettingsEditor/0.0.1280.728@0.0.1280.728" timestamp="1609722941487" />
+    <state x="392" y="295" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1609653569290">
+      <screen x="0" y="0" width="1280" height="728" />
+    </state>
+    <state x="392" y="295" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog/0.0.1280.728@0.0.1280.728" timestamp="1609653569290" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/sample$TestRunner.ic" NAME="TestRunner Coverage Results" MODIFIED="1609723225845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>runners.*</FILTER>
+    </SUITE>
+  </component>
+</project>

@@ -1,0 +1,6 @@
+#Thu Oct 03 22:13:16 NZDT 2019
+json={"id"\:"usernameTextField","dumpElementType"\:"INSTRUMENTED","x"\:30,"y"\:466,"width"\:1020,"height"\:144,"onScreen"\:true,"uniqueKeys"\:"id,hint","visible"\:"true","hidden"\:"false","top"\:"true","knownSuperClass"\:"android.widget.EditText","hint"\:"Username","busy"\:"true","text"\:"","textColor"\:"0x000000","class"\:"android.widget.EditText","enabled"\:"true"}
+context=INSTRUMENTED
+page=dum
+by=xpath
+expression=//*[@text\='' and @id\='usernameTextField']
